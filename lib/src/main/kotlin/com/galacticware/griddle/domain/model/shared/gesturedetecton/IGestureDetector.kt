@@ -1,9 +1,9 @@
 package com.galacticware.griddle.domain.model.shared.gesturedetecton
 
 import com.galacticware.griddle.domain.model.shared.Direction
+import com.galacticware.griddle.domain.model.shared.GenericGestureType
 import com.galacticware.griddle.domain.model.shared.Point
 import com.galacticware.griddle.domain.model.shared.RotationDirection
-import com.galacticware.griddle.domain.model.shared.GenericGestureType
 
 interface IGestureDetector {
     /**
